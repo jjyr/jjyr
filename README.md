@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- 📝 **[qwen3.5-pure-c](https://github.com/jjyr/qwen3.5-pure-c)** - Pure C experiments for Qwen3.5-style text inference on Apple Silicon
 - ☕ **[vibe-caffeine](https://github.com/jjyr/vibe-caffeine)** - Auto prevent mac sleep during vibe coding (supports opencode/claude/codex)
 - 📸 **[dji-importer](https://github.com/jjyr/dji-importer)** - Import media from DJI camera to Mac Photos
 
