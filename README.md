@@ -1,18 +1,5 @@
 # Hi, I'm Jjy ☕️
 
- 🤖 **VibeCoder** | 🦀 **Rustacean**
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
-![RISC-V](https://img.shields.io/badge/-RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=white)
-
-> VibeCoding... Trying to do more stuff with AI
-
 ## Current Projects
 
 - 📝 **[qwen3.5-pure-c](https://github.com/jjyr/qwen3.5-pure-c)** - Pure C experiments for Qwen3.5-style text inference on Apple Silicon
